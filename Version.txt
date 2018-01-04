@@ -1,0 +1,6 @@
+TITLE
+	AMBIT G (Broadcom solution) Wireless LAN driver (T60H906.00)" for XP-64BIT -WW-
+	    
+PRODUCT DATA
+    VERSION      : v3.100.64.0
+    BUILD ID     : FBWG01WW

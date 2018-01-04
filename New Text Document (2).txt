@@ -1,0 +1,3 @@
+linux
+aws
+---image--14,16,18
